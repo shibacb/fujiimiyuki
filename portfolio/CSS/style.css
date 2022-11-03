@@ -98,15 +98,15 @@ header {
 }
 
 .home-contents p {
-  font-size: 1rem;
-  padding-top: 24px;
-  line-height: 2.5rem;
+  font-size: 0.9rem;
+  padding-top: 21px;
+  line-height: 2.3rem;
   font-weight: bold;
   padding-bottom: 36px;
 }
 .page-midashi {
-  padding-top: 220px;
-  font-size: 2.1rem;
+  padding-top: 210px;
+  font-size: 1.8rem;
 }
 
 .page-title {
